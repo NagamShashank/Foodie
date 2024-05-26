@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Foodie</string>
+    <string name="todo">TODO</string>
+    <string name="foodToBlow">Food to blow your mind!</string>
+    <string name="foodToBlowDes">Whether you\'re craving pizza, sushi, or \n something in between, we have got your back.</string>
+    <string name="get_started">Get Started</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="popular_restaurant">Popular Restaurants</string>
+    <string name="view_all">View all</string>
+    <string name="view_all_restaurants">View all restaurants</string>
+    <string name="search_for_a_vendor_or_product">Search for a vendor or product</string>
+    <string name="deliver_to">Deliver to :</string>
+    <string name="address_sample">08776 Serenity Ports, New York</string>
+    <string name="the_pizza_place">The Pizza Place</string>
+    <string name="_2_km_away">2 Km away</string>
+    <string name="profile">Profile</string>
+    <string name="amelia_cassian">Amelia Cassian</string>
+    <string name="add_sample">102nd St Ports, New York</string>
+    <string name="in_progress">In Progress</string>
+    <string name="sampleorderno">ODR75942</string>
+    <string name="quantity">Quantity</string>
+    <string name="total_amount">Total Amount</string>
+    <string name="continue_shopping">Continue shopping</string>
+    <string name="track_your_order">Track your order</string>
+    <string name="enter_promo_code">Enter promo code</string>
+</resources>

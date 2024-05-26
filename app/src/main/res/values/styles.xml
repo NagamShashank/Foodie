@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="BottomNavTextStyle">
+        <item name="android:fontFamily">@font/popinregular</item>
+        <!-- Add more text appearance attributes as needed -->
+    </style>
+</resources>
