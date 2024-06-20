@@ -5,7 +5,8 @@
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".ProductListScreen.ProductListActivity">
+    tools:context=".ProductListScreen.ProductListActivity"
+    android:background="@color/white">
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -17,6 +18,7 @@
             android:layout_height="250dp">
 
             <ImageView
+                android:id="@+id/resBgImg"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:src="@drawable/pizza_img"
@@ -40,6 +42,7 @@
             </androidx.cardview.widget.CardView>
 
             <TextView
+                android:id="@+id/offerLabel"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Free Delivery on Orders Above Rs 50"
